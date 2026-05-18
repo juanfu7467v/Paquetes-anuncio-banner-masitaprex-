@@ -1,0 +1,92 @@
+[
+  {
+    "tipo": "individual",
+    "titulo": "Créditos — Ideal si consultas de forma ocasional",
+    "subtitulo": "Sin vencimiento • Acumulables • Bonus por volumen",
+    "monto": 10,
+    "creditos_asignados": 60,
+    "bonificacion_extra": "+3",
+    "recomendado": false,
+    "imagen_url": "https://i.postimg.cc/DwZCNyGL/file-00000000ff6c71f5b266daefd6d7f650.png"
+  },
+  {
+    "tipo": "individual",
+    "titulo": "Créditos — Ideal si consultas de forma ocasional",
+    "subtitulo": "Sin vencimiento • Acumulables • Bonus por volumen",
+    "monto": 20,
+    "creditos_asignados": 125,
+    "bonificacion_extra": "+5",
+    "recomendado": false,
+    "imagen_url": "https://i.postimg.cc/qqVSVVTL/file-00000000569471f586fb45fe546ef3ec.png"
+  },
+  {
+    "tipo": "individual",
+    "titulo": "Créditos — Ideal si consultas de forma ocasional",
+    "subtitulo": "Sin vencimiento • Acumulables • Bonus por volumen",
+    "monto": 50,
+    "creditos_asignados": 330,
+    "bonificacion_extra": "+20",
+    "recomendado": true,
+    "imagen_url": "https://i.postimg.cc/qRCS5B9D/file-0000000021f471f9963925b9628a96a1.png"
+  },
+  {
+    "tipo": "individual",
+    "titulo": "Créditos — Ideal si consultas de forma ocasional",
+    "subtitulo": "Sin vencimiento • Acumulables • Bonus por volumen",
+    "monto": 100,
+    "creditos_asignados": 700,
+    "bonificacion_extra": "+40",
+    "recomendado": false,
+    "imagen_url": "https://i.postimg.cc/KjSwSS2Q/file-000000006c6071f5bdef1dcadf8d453a.png"
+  },
+  {
+    "tipo": "individual",
+    "titulo": "Créditos — Ideal si consultas de forma ocasional",
+    "subtitulo": "Sin vencimiento • Acumulables • Bonus por volumen",
+    "monto": 200,
+    "creditos_asignados": 1500,
+    "bonificacion_extra": "+80",
+    "recomendado": false,
+    "imagen_url": "https://i.postimg.cc/vB6kN8p7/file-00000000cee4720e9e3871ce2f02a554.png"
+  },
+  {
+    "tipo": "intensivo",
+    "titulo": "Plan intensivo — Ideal si consultas a diario",
+    "subtitulo": "Uso humano normal sujeto a política de uso razonable • Sin contar créditos",
+    "monto": 80,
+    "duracion_texto": "7 días",
+    "limite_seguridad_consultas": "1,000 consultas",
+    "recomendado": false,
+    "imagen_url": "https://i.postimg.cc/JhmZDpQh/image-39.jpg"
+  },
+  {
+    "tipo": "intensivo",
+    "titulo": "Plan intensivo — Ideal si consultas a diario",
+    "subtitulo": "Uso humano normal sujeto a política de uso razonable • Sin contar créditos",
+    "monto": 120,
+    "duracion_texto": "15 días",
+    "limite_seguridad_consultas": "2,500 consultas",
+    "recomendado": false,
+    "imagen_url": "https://i.postimg.cc/6Qwn2Mh7/image-30.jpg"
+  },
+  {
+    "tipo": "intensivo",
+    "titulo": "Plan intensivo — Ideal si consultas a diario",
+    "subtitulo": "Uso humano normal sujeto a política de uso razonable • Sin contar créditos",
+    "monto": 180,
+    "duracion_texto": "30 días",
+    "limite_seguridad_consultas": "5,000 consultas",
+    "recomendado": true,
+    "imagen_url": "https://i.postimg.cc/8CDMJZbJ/image-49.jpg"
+  },
+  {
+    "tipo": "intensivo",
+    "titulo": "Plan intensivo — Ideal si consultas a diario",
+    "subtitulo": "Uso humano normal sujeto a política de uso razonable • Sin contar créditos",
+    "monto": 320,
+    "duracion_texto": "60 días",
+    "limite_seguridad_consultas": "12,000 consultas",
+    "recomendado": false,
+    "imagen_url": "https://i.postimg.cc/g0d8XgKH/image-31.jpg"
+  }
+]
