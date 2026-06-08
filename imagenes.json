@@ -3,16 +3,6 @@
     "tipo": "individual",
     "titulo": "Créditos — Ideal si consultas de forma ocasional",
     "subtitulo": "Sin vencimiento • Acumulables • Bonus por volumen",
-    "monto": 10,
-    "creditos_asignados": 60,
-    "bonificacion_extra": "+3",
-    "recomendado": false,
-    "imagen_url": "https://i.postimg.cc/DwZCNyGL/file-00000000ff6c71f5b266daefd6d7f650.png"
-  },
-  {
-    "tipo": "individual",
-    "titulo": "Créditos — Ideal si consultas de forma ocasional",
-    "subtitulo": "Sin vencimiento • Acumulables • Bonus por volumen",
     "monto": 20,
     "creditos_asignados": 125,
     "bonificacion_extra": "+5",
