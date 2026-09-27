@@ -43,40 +43,40 @@
     "tipo": "intensivo",
     "titulo": "Plan intensivo — Ideal si consultas a diario",
     "subtitulo": "Uso humano normal sujeto a política de uso razonable • Sin contar créditos",
-    "monto": 80,
+    "monto": 110,
     "duracion_texto": "7 días",
-    "limite_seguridad_consultas": "1,000 consultas",
+    "limite_seguridad_consultas": "330 consultas",
     "recomendado": false,
-    "imagen_url": "https://i.postimg.cc/JhmZDpQh/image-39.jpg"
-  },
-  {
-    "tipo": "intensivo",
-    "titulo": "Plan intensivo — Ideal si consultas a diario",
-    "subtitulo": "Uso humano normal sujeto a política de uso razonable • Sin contar créditos",
-    "monto": 120,
-    "duracion_texto": "15 días",
-    "limite_seguridad_consultas": "2,500 consultas",
-    "recomendado": false,
-    "imagen_url": "https://i.postimg.cc/6Qwn2Mh7/image-30.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/juanfu7467v/Paquetes-anuncio-banner-masitaprex-/refs/heads/main/public/file_1790473667322.webp"
   },
   {
     "tipo": "intensivo",
     "titulo": "Plan intensivo — Ideal si consultas a diario",
     "subtitulo": "Uso humano normal sujeto a política de uso razonable • Sin contar créditos",
     "monto": 180,
-    "duracion_texto": "30 días",
-    "limite_seguridad_consultas": "5,000 consultas",
-    "recomendado": true,
-    "imagen_url": "https://i.postimg.cc/8CDMJZbJ/image-49.jpg"
+    "duracion_texto": "15 días",
+    "limite_seguridad_consultas": "600 consultas",
+    "recomendado": false,
+    "imagen_url": "https://raw.githubusercontent.com/juanfu7467v/Paquetes-anuncio-banner-masitaprex-/refs/heads/main/public/file_1790473672373.webp"
   },
   {
     "tipo": "intensivo",
     "titulo": "Plan intensivo — Ideal si consultas a diario",
     "subtitulo": "Uso humano normal sujeto a política de uso razonable • Sin contar créditos",
-    "monto": 320,
+    "monto": 340,
+    "duracion_texto": "30 días",
+    "limite_seguridad_consultas": "1,000 consultas",
+    "recomendado": true,
+    "imagen_url": "https://raw.githubusercontent.com/juanfu7467v/Paquetes-anuncio-banner-masitaprex-/refs/heads/main/public/file_1790473675864.webp"
+  },
+  {
+    "tipo": "intensivo",
+    "titulo": "Plan intensivo — Ideal si consultas a diario",
+    "subtitulo": "Uso humano normal sujeto a política de uso razonable • Sin contar créditos",
+    "monto": 580,
     "duracion_texto": "60 días",
-    "limite_seguridad_consultas": "12,000 consultas",
+    "limite_seguridad_consultas": "1,800 consultas",
     "recomendado": false,
-    "imagen_url": "https://i.postimg.cc/g0d8XgKH/image-31.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/juanfu7467v/Paquetes-anuncio-banner-masitaprex-/refs/heads/main/public/file_1790473679528.webp"
   }
 ]
